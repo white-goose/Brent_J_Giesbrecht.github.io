@@ -1,0 +1,19 @@
+body {
+  background-image: url("paper.gifhttps://static.photocdn.pt/images/articles/2017_1/iStock-545347988.jpg"); 
+}
+
+h1 {
+  font-family: verdana;
+  color: royalblue;
+  text-align: center;
+}
+h2 {
+  font-family: verdana;
+  color: royalblue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
